@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: sample-docker
+server:
+  port: 9080
